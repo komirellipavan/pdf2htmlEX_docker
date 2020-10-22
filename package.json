@@ -1,0 +1,22 @@
+{
+  "name": "pdf-html",
+  "version": "1.0.0",
+  "description": "Test demo for pdf2html",
+  "author": "Pavan <pavan@talk5.audio>",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "formidable",
+    "on-finished"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.2"
+  }
+}

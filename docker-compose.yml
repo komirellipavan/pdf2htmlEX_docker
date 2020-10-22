@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+    pdf2htmlex:
+        container_name: pdf2htmlex
+        build: ./
+        restart: always
+        ports:
+            - "4000:4000"
