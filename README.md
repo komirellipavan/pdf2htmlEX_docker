@@ -16,10 +16,10 @@ docker run -p 4000:4000 pavanreddi123/pdf2htmlex
 
 ## Usage
 
-```
-[usage]https://github.com/pavanreddi123/pdf2htmlEX_docker/blob/master/usage.png
 
-```
+![usage](https://github.com/pavanreddi123/pdf2htmlEX_docker/blob/master/usage.png)
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
