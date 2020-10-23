@@ -8,6 +8,9 @@ Converts pdf to html. I have created basic web API around [pdf2htmlEX](https://g
 
 ```bash
 docker pull pavanreddi123/pdf2htmlex:latest
+```
+
+```bash
 docker run -p 4000:4000 pavanreddi123/pdf2htmlex
 ```
 
